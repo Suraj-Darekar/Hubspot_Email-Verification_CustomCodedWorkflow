@@ -10,4 +10,5 @@ This custom HubSpot workflow, crafted in JavaScript, is a powerful tool for vali
 3. Deploy Custom JavaScript Code
 4. Copy Custom: Coded Output to a Custom Property
 </p>
+![1](https://github.com/Suraj-Darekar/Hubspot_Email-Verification_CustomCodedWorkflow/assets/140320836/bef3a7ce-d405-4ae0-bfe2-4b18d998b6f9)
 
